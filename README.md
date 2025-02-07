@@ -50,4 +50,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-**Start managing your crypto finances with Matrix now.**
+🚀 **Start managing your crypto finances with Matrix now.**
