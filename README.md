@@ -1,6 +1,6 @@
 # 🤖 Matrix - The CFO AI Agent for Crypto
 
-Matrix is an AI-powered CFO Agent designed to help both individuals and enterprises efficiently manage their crypto finances, including spending, revenue tracking, and investment strategies. 🚀
+Matrix is an AI-powered CFO Agent designed to help both individuals and enterprises efficiently manage their crypto finances, including spending, revenue tracking, and investment strategies. 
 
 ---
 
@@ -27,25 +27,6 @@ Matrix is an AI-powered CFO Agent designed to help both individuals and enterpri
 ## 📖 Documentation
 
 For full documentation, visit [Matrix Docs](https://your-docs-link.com).
-
----
-
-## 🛠️ Roadmap
-
-### 👤 For Individuals
-
-- [ ] **Enhanced Expense Categorization** 💳 - AI-powered auto-tagging for better financial tracking.
-- [ ] **Advanced Income Analytics** 📈 - Real-time earnings breakdown and financial trends.
-- [ ] **Smart Investment Insights** 📊 - AI-driven recommendations for portfolio optimization.
-- [ ] **Automated Tax Filing** 🏦 - Simplified tax calculations and filing tools.
-
-### 🏢 For Enterprise 
-
-- [ ] **Corporate Expense Optimization** 💸 - AI-driven insights for cost reduction.
-- [ ] **Automated Financial & Compliance Reporting** 📑 - Streamlined reporting for audits and tax compliance.
-- [ ] **Cash Flow & Liquidity Forecasting** 🔄 - Predict future financial positions with AI modeling.
-- [ ] **Automated Payroll & Vendor Settlements** 💰 - Enhance payroll systems with smart contract automation.
-- [ ] **Enterprise Investment Strategy Tools** 🚀 - AI-driven capital deployment and asset management solutions.
 
 ---
 
