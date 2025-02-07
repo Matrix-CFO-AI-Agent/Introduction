@@ -8,7 +8,7 @@ Matrix is an AI-powered CFO Agent designed to help both individuals and enterpri
 
 ### 👤 For Individuals
 
-- ✅ **Smart Expense Tracking** 💳 - AI-powered categorization of spending for better budgeting.
+- ✅ **Smart Spending management** 💳 - AI-powered categorization of spending for better budgeting.
 - ✅ **Income & Earnings Management** 📈 - Track and analyze crypto-based salaries, staking rewards, and trading profits.
 - ✅ **Automated Tax Calculation & Compliance** 🏦 - Generate region-specific tax reports for effortless filing.
 - ✅ **Investment & Portfolio Optimization** 📊 - AI-driven insights to balance risk and maximize returns.
@@ -26,7 +26,7 @@ Matrix is an AI-powered CFO Agent designed to help both individuals and enterpri
 
 ## 📖 Documentation
 
-For full documentation, visit [Matrix Docs](https://your-docs-link.com).
+For full documentation, will be uploaded soon.
 
 ---
 
@@ -40,9 +40,7 @@ We welcome contributions! Please check our [contribution guidelines](CONTRIBUTIN
 
 Join our community and stay updated:
 
-- **Twitter**: [@MatrixAI](https://twitter.com/MatrixAI)
-- **Telegram**: [Matrix Chat](https://t.me/matrix)
-- **Discord**: [Matrix Community](https://discord.gg/matrix)
+- **Twitter**: [@Matrix_AI)](https://x.com/Matrix_AI_)
 
 ---
 
