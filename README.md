@@ -30,7 +30,7 @@ Full documentation will be uploaded soon.
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contribution
 
 We welcome contributions! Please check our [contribution guidelines](CONTRIBUTING.md) before submitting a PR.
 
